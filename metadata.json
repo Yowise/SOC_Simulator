@@ -1,0 +1,4 @@
+{
+  "name": "SOC Simulator",
+  "description": "An interactive Security Operations Center (SOC) dashboard that simulates a live alert queue. It features AI-powered incident response, where selecting an alert dynamically generates a step-by-step playbook from the Gemini API, mimicking the workflow of a SOC analyst using tools like Splunk or Elastic."
+}
